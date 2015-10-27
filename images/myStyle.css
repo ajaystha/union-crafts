@@ -1,0 +1,152 @@
+A {
+	COLOR: #2d4491; FONT-FAMILY: arial; FONT-SIZE: 8pt; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #2d4491; FONT-FAMILY: arial; FONT-SIZE: 8pt; FONT-WEIGHT: normal; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: #009ed6; FONT-FAMILY: arial; FONT-SIZE: 8pt; FONT-WEIGHT: normal; TEXT-DECORATION: underline
+}
+A:visited {
+	COLOR: #2d4491; FONT-FAMILY: arial; FONT-SIZE: 8pt; FONT-WEIGHT: normal
+}
+A:hover {
+	COLOR: #000000; FONT-FAMILY: arial; FONT-SIZE: 8pt; FONT-WEIGHT: none ; TEXT-DECORATION: none
+}
+A.nav:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.nav:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.nav:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: underline
+}
+A.nav:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.navb:link {
+	FONT-family: Tahoma,verdana,Arial,Helvetica,sans-serif; FONT-SIZE: 11px; COLOR: #000000; TEXT-DECORATION: none
+}
+A.navb:visited {
+	FONT-family: Tahoma,verdana,Arial,Helvetica,sans-serif; FONT-SIZE: 11px; COLOR: #000000; TEXT-DECORATION: none
+}
+A.navb:hover {
+	FONT-family: Tahoma,verdana,Arial,Helvetica,sans-serif; FONT-SIZE: 11px; COLOR: #000000; TEXT-DECORATION: underline; 
+}
+A.navb:active {
+	FONT-family: Tahoma,verdana,Arial,Helvetica,sans-serif; FONT-SIZE: 11px; COLOR: #000000; TEXT-DECORATION: none
+}
+BODY {
+	BACKGROUND-COLOR: #ffffff;
+	FONT-FAMILY: arial;
+	FONT-SIZE: 8pt;
+	COLOR: #333333;
+	margin: 0px;
+	padding: 0px;
+}
+P {
+	FONT-FAMILY: arial; FONT-SIZE: 8pt
+}
+LI {
+	FONT-FAMILY: arial; FONT-SIZE: 8pt
+}
+H3 {
+	COLOR: #2d4491; FONT-FAMILY: arial; FONT-SIZE: 12pt; FONT-WEIGHT: bold
+}
+TD {
+	FONT-FAMILY: arial; FONT-SIZE: 8pt
+}
+TD.title {
+	COLOR: #2d4491; FONT-FAMILY: arial, helvetica, sans-serif; FONT-SIZE: 11pt; FONT-WEIGHT: bold; PADDING-BOTTOM: 6px
+}
+INPUT {
+	COLOR: #000000; FONT-FAMILY: arial, sans-serif; FONT-SIZE: 8pt
+}
+SELECT {
+	FONT-SIZE: 8pt; FONT-FAMILY: Arial,sans-serif
+}
+OPTION {
+	FONT-SIZE: 8pt; FONT-FAMILY: Arial,sans-serif
+}
+.title_header {
+	font-family: "Trebuchet MS", Arial, Verdana;
+	font-size: 20px;
+	color: #CC0000;
+}
+.news_title {
+	font-family: "Trebuchet MS", arial, verdana;
+	font-size: 12px;
+	font-weight: bold;
+	color: #333333;
+	text-decoration: none;
+}
+.footer_text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.footer_text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.footer_text:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+a.footer_text:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.small_title {
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 12px; 
+	COLOR: #CC0000; 
+	TEXT-DECORATION: none
+}
+.news_title {
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 12px; 
+	COLOR: #000080; 
+	TEXT-DECORATION: none
+}
+.select_location {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+	text-decoration: none;
+	border:1px solid #CCDDEE
+}
+.flat_input {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	text-decoration: none;
+	background-color: #D7EBFF;
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 2px;
+	border: 1px solid #333333;
+}
+.navlink {
+	FONT-WEIGHT: bold; BORDER-RIGHT: black 0px solid; PADDING-RIGHT: 4px; BACKGROUND-POSITION: 3px 50%; BORDER-TOP: black 0px solid; DISPLAY: block; PADDING-LEFT: 23px; FLOAT: left; PADDING-BOTTOM: 4px; BORDER-LEFT: black 0px solid; COLOR: black; PADDING-TOP: 3px; BORDER-BOTTOM: black 0px solid; BACKGROUND-REPEAT: no-repeat; HEIGHT: 13px; TEXT-DECORATION: none
+}
+
+.navlink:link {
+	FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.navlink:visited {
+	FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.navlink:hover {
+	BORDER-TOP-WIDTH: 1px; PADDING-RIGHT: 3px; BACKGROUND-POSITION: 2px 50%; PADDING-LEFT: 22px; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 1px; PADDING-BOTTOM: 3px; PADDING-TOP: 2px; HEIGHT: 13px; BACKGROUND-COLOR: #ffe1ac; BORDER-RIGHT-WIDTH: 1px; FONT-WEIGHT: bold
+}
+
