@@ -1,7 +1,3 @@
 <?php
-	
-	$db_server="localhost";
-	$db="unioncra_unioncra";
-	$usr="root";
-	$pwd="";
+	$db_server="localhost";	$db="unioncra_unioncra";	$usr="root";	$pwd="okay";
 ?>
